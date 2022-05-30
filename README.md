@@ -18,7 +18,7 @@ Sequelize, MySQL2, Express.js and the dotenv package were installed to connect t
 
 ## Usage
 Below is a video to showing an example of how the routes will run and generate data. Video:
-https://drive.google.com/file/d/1POg28JcyqZ9Kc4HKn6mszyecPMxIqVlP/view
+https://drive.google.com/file/d/1uQjRSvCw7suZm1p1ofYIUsGZzUihseyu/view
 
 ## Contributing
 Starter code was provided for this application through this repository: https://github.com/coding-boot-camp/fantastic-umbrella.
